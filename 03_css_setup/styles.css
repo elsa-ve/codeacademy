@@ -5,10 +5,9 @@ p {
 .title {
 color:teal;
       }
-#article-title {
-  font-family: cursive;
-  text-transform: capitalize;
-  }
+.cursive{
+font-family: cursive;
+}
 .uppercase {
 text-transform: uppercase;
         }
