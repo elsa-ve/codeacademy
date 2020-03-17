@@ -23,6 +23,8 @@ font-family:cursive;
 .description h5 {
 color:teal;
 }
-.h5 {color:rebeccapurple !important;}
+p,
+.h5 {color:rebeccapurple !important;
+font-family: Georgia;}
 
       
