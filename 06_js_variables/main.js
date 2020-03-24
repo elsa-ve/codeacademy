@@ -1,18 +1,10 @@
-let levelUp = 10;
-let powerLevel = 9001;
-let multiplyMe = 32;
-let quarterMe = 1152;
+let gainedDollar = 3;
+let lostDollar = 50;
+gainedDollar++;
+lostDollar--;
+/*Other mathematical assignment operators include the increment operator (++) and decrement operator (--).
 
-// Use the mathematical assignments in the space below:
-levelUp +=5;
-powerLevel -=100;
-multiplyMe *=11;
-quarterMe /=4;
-
-
-// These console.log() statements below will help you check the values of the variables.
-// You do not need to edit these statements. 
-console.log('The value of levelUp:', levelUp); 
-console.log('The value of powerLevel:', powerLevel); 
-console.log('The value of multiplyMe:', multiplyMe); 
-console.log('The value of quarterMe:', quarterMe);
+The increment operator will increase the value of the variable by 1. 
+The decrement operator will decrease the value of the variable by 1.
+Just like the previous mathematical assignment operators (+=, -=, *=, /=), 
+the variable’s value is updated and assigned as the new value of that variable.*/
